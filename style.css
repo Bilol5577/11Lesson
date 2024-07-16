@@ -1,0 +1,223 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.body{
+    list-style: none;
+    background: url(img/1.png);
+}
+.header{
+    /* display: flex; */
+    background: url(img/image\ 1.png);
+    width: 1440px;
+    height: 1024px;
+    margin: 0 auto;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1440px;
+    height: 50px;
+    border: 1px;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+.nav ul{
+    display: flex;
+    gap: 500px;
+    margin-left: 35px;
+    text-shadow: 0 4px 4px #000000;
+    color: white;
+}
+.nav img{
+    margin-left: 53px;
+}
+.button{
+    align-items: center;
+    background-color: #009ff59a;
+    box-shadow: 0 0 4px #DAD3FF;
+    margin-left: 68px;
+    width: 243px;
+    height: 50px;
+    border-radius: 10px;
+    display: flex;
+}
+.button p{
+    margin-left: 21px;
+    font-size: 20px;
+    color: white;
+}
+.button img{
+    margin-left: 19px;
+}
+.nav2{
+    width: 1440px;
+    height: 974px;
+    border: 1px;
+    margin: 0 auto;
+}
+.button2{
+    width: 604px;
+    height: 103px;
+    border: 11px solid #5A5555;
+    background-color: #FFC611;
+    border-radius: 50px;
+    margin-top: 163px;
+    margin-left: 443px;
+}
+.nav2 h1{
+    font-size: 36px;
+    font-weight: 700;
+    text-shadow: 0 0 4px #0047FF;
+}
+.div1{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 132px;
+}
+.div2{
+    display: flex;
+    justify-content: space-around;
+    text-shadow: 0 0 4px #FFC200;
+    font-size: 36px;
+    font-weight: 700;
+}
+.alt1{
+    width: 361px;
+    height: 67px;
+    border: 1px;
+    background-color: #1F1F1F;
+    text-align: center;
+    padding-top: 15px;
+}
+.alt2 {
+    width: 361px;
+    height: 67px;
+    border: 1px;
+    background-color: #1F1F1F;
+    text-align: center;
+    padding-top: 15px;
+}
+.alt3{
+    width: 361px;
+    height: 67px;
+    border: 1px;
+    background-color: #1F1F1F;
+    text-align: center;
+    padding-top: 15px;
+}
+.d1{
+    display: block;
+    box-shadow: 8px 7px 20px white;
+    width: 361px;
+    height: -420px;
+}
+.d2{
+    display: block;
+    box-shadow: 8px 7px 20px white;
+    width: 361px;
+    height: -420px;
+}
+.d3{
+    display: block;
+    box-shadow: 8px 7px 20px white;
+    width: 361px;
+    height: -420px;
+}
+.d4{
+    display: block;
+    box-shadow: 8px 7px 20px white;
+    width: 361px;
+    height: -420px;
+}
+
+.header2{
+    width: 1440px;
+    height: 1042px;
+    border: 1px;
+    background-color: black;
+    margin: 0 auto;
+    color: white;
+}
+.hh1{
+    font-size: 64px;
+    font-weight: 600;
+    color: #5A5555;
+    text-align: center;
+    padding-top: 61px;
+    text-shadow: 0 4px 4px white;
+}
+.divv1 {
+    padding-top: 58px;
+    padding-left: 58px;
+}
+.divv1 p{
+    margin-top: -310px;
+    padding-left: 650px;
+    font-size: 27px;
+    font-weight: 600;
+    line-height: 32px;
+}
+.divv1 button{
+    margin-top: 85px;
+    margin-left: 650px;
+    width: 278px;
+    height: 61px;
+    background-color: #535353;
+    color: white;
+    font-size: 17px;
+    font-weight: 600;
+    box-shadow: 0 7px 12px white;
+}
+.divv1 h2{
+    text-shadow: 0 4px 4px #040404;
+} 
+.divv2 {
+    padding-top: 58px;
+    padding-left: 58px;
+    font-size: 27px;
+    font-weight: 600;
+    line-height: 32px;
+}
+.divv2 img{
+    padding-left: 650px;
+    margin-top: -420px;
+}
+.divv2 button{
+    margin-top: 60px;
+    width: 278px;
+    height: 61px;
+    background-color: #FFC200;
+    color: black;
+    font-size: 27px;
+    font-weight: 600;
+    box-shadow: 0 7px 12px white;
+    text-shadow: 0 4px 4px #040404;
+}
+
+
+.nav20{
+    width: 1440px;
+    height: 158px;
+    border: 1px;
+    background-color: #FFC611;
+    margin: 0 auto;
+    display: flex;
+}
+.d20{
+    display: flex;
+    gap: 26px;
+    width: 45px;
+    height: 45px;
+    padding-left: 997px;
+    margin-top: 61px;
+    
+}
+.d21{
+    padding-top: 51px;
+    padding-left: 58px;
+}
